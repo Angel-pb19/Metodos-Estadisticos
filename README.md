@@ -17,4 +17,4 @@ WAOS
 +Activar credenciales 
 +Modificar el archivo
 +Sincronizar datos
-
++fghhgf
