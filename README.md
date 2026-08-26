@@ -27,19 +27,15 @@ WAOS
 #importar datos ----
 #Usar la funcion "read.csv" para importar datos en excel. 
 
-Obs <- read.csv("ejemplo_2.csv", header = TRUE)
++Declarar columna de tratamiento como un factor y sus niveles
++se utilizo la funcion "as.factor".
++Crear grafica
++Crear un boxplot de los datos
 
-#Declarar columna de tratamiento como un factor y sus niveles
-#se utilizo la funcion "as.factor".
 
-Obs$Tratamiento <-as.factor(Obs$Tratamiento)
-Obs$Tratamiento
 
-#Grafca----
 
-#Boxplot de los dato
 
-boxplot(Obs$IE ~ Obs$Tratamiento)
 
 
 
