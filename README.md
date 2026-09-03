@@ -32,8 +32,13 @@ WAOS
 +Crear grafica
 +Crear un boxplot de los datos
 
+#26/08/2026 Cuarta clase
 
++hacer tarea lab 01 teams
 
+#27/08/2026 Quinta clase
+
++verificar tarea
 
 
 
