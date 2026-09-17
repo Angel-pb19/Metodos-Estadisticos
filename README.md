@@ -19,6 +19,7 @@ WAOS
 +Sincronizar datos
 +fghhgf
 
+#Semana 3
 
 ##19/08/2026 Tercera clase
 
@@ -32,6 +33,8 @@ WAOS
 +Crear grafica
 +Crear un boxplot de los datos
 
+#Semana 4
+
 #26/08/2026 Cuarta clase
 
 +hacer tarea lab 01 teams
@@ -39,6 +42,16 @@ WAOS
 #27/08/2026 Quinta clase
 
 +verificar tarea
+
+#Semana 5
+
+#2/09/2026 Sexta clase
+
++No hubo
+
+# 03/09/2026 Septima clase
+
+
 
 
 
