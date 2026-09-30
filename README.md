@@ -52,6 +52,11 @@ WAOS
 # 03/09/2026 Septima clase
 
 
+#30/089/2026
+
+Coeficientes de correlacion 
+
+
 
 
 
