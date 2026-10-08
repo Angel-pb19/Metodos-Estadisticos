@@ -60,6 +60,8 @@ Coeficientes de correlacion
 
 #Clase 07/10/2026
 
+#Tarea 08/10/2026
+
 
 
 
